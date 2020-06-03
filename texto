@@ -2,7 +2,7 @@
 <script>
     function pulaLinha() {
 
-        document.write("<br>");
+        document.write("<br><br>");
     }
 
     var titulo = "Bem-vindo ao meu programa!";
